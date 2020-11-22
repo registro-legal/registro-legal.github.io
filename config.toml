@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "registro-legal.github.io"
 title = "themefisher"
 theme = "themefisher"
 # post pagination
